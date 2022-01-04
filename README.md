@@ -7,7 +7,9 @@ models .
 ● In the Business aspect this project may be useful to the marketing team
 of the bank where the Organization can take respective action to retain
 the customer.
-● I have tried various Machine learning algorithms along with feature Engineering to get the best accuracy of it.In this project I have used 
-F1-Score as Metric as it uses harmonic mean of Precision and recall.
+● I have tried various Machine learning algorithms along with feature Engineering to get the best accuracy of it.In this project I have used F1-Score as Metric as it uses harmonic mean of Precision and recall.
 
-![image](https://user-images.githubusercontent.com/64630755/148063614-731445ec-e026-430e-9b1e-447814778d2f.png)
+![image](https://user-images.githubusercontent.com/64630755/148063781-3fda4407-e0ae-42e9-8f2c-a7731ba298a8.png)
+
+
+

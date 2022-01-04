@@ -10,19 +10,4 @@ the customer.
 ● I have tried various Machine learning algorithms along with feature Engineering to get the best accuracy of it.In this project I have used 
 F1-Score as Metric as it uses harmonic mean of Precision and recall.
 
-+-----------------+---------------------+--------------------+
-|    Vectorizer   |        Model        |      F1-score      |
-+-----------------+---------------------+--------------------+
-| one-hotEncoding |         KNN         |       0.841        |
-| one-hotEncoding | Logistic-regression |       0.8035       |
-| one-hotEncoding |    Decision Trees   |       0.855        |
-| one-hotEncoding |    random forest    |       0.8595       |
-| one-hotEncoding |  XGboost-classifier |       0.858        |
-| response-coding |         KNN         | 0.8404999999999999 |
-| response-coding | Logistic-regression |       0.8125       |
-| response-coding |    Decision Trees   |       0.855        |
-| response-coding |    random forest    |       0.8575       |
-| response-coding |  XGboost-classifier |       0.858        |
-+-----------------+---------------------+--------------------+
-
-
+![image](https://user-images.githubusercontent.com/64630755/148063614-731445ec-e026-430e-9b1e-447814778d2f.png)

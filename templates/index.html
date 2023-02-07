@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+  <meta charset="UTF-8">
+  <title>ML API</title>
+ 
+</head>
+
+<body>
+ <div class="login">
+	<h1>Customer Churn Analysis</h1>
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action="{{ url_for('predict')}}"method="post">
+      <input type="text" name="customer_name" placeholder="Name" required="required" />
+        <input type="text" name="id" placeholder="ID" required="required" />
+    	<input type="text" name="geography" placeholder="geography" required="required" />
+        <input type="text" name="Gender" placeholder="Gender" required="required" />
+		<input type="number" name="Has_credit_card_or_not" placeholder="Has_credit_card_or_not - 1(having) or 0(not having)" required="required" />
+    <input type="number" name="active_member_or_not" placeholder="active_member_or_not - 1(having) or 0(not having)" required="required" />
+        <input type="number" name="credit_score" placeholder="credit_score" required="required" />
+		<input type="number" name="tenure" placeholder="tenure" required="required" />
+    <input type="number" name="balance" placeholder="balance" required="required" />
+        <input type="number" name="no_of_products_usage" placeholder="no_of_products_usage" required="required" />
+		<input type="number" name="Age" placeholder="Age" required="required" />
+    <input type="number" name="Salary" placeholder="Salary" required="required" />
+    
+        
+
+        <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    </form>
+
+   <br>
+   <br>
+   {{ prediction_text }}
+
+ </div>
+
+
+</body>
+</html>

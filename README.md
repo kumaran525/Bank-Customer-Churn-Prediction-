@@ -32,6 +32,6 @@ By default, flask will run on port 5000.
 
 * Navigate to URL http://127.0.0.1:5000/ (or) http://localhost:5000
 
-Enter valid numerical values in all input boxes and hit Predict.
+Enter valid values in all input boxes and hit Predict.
 
 If everything goes well, you should be able to see the predcited vaule on the HTML page! check the output here: http://127.0.0.1:5000/predict

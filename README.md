@@ -20,6 +20,10 @@ the customer.
 
 ## Running the project ##
 
+*To install necessary libraries to run the Project 
+
+ `pip install -r /path/to/requirements.txt`
+ 
 * Run app.py using below command to start Flask API 
 
 `python application.py`

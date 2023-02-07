@@ -11,11 +11,11 @@ the customer.
 
 ![image](https://user-images.githubusercontent.com/64630755/148063781-3fda4407-e0ae-42e9-8f2c-a7731ba298a8.png) 
 
-##Running the project##
+## Running the project ##
 
 * Run app.py using below command to start Flask API 
 
-~~python app.py~~ 
+`python application.py`
 
 By default, flask will run on port 5000. 
 

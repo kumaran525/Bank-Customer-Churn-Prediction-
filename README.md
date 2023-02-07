@@ -11,6 +11,12 @@ the customer.
 
 ![image](https://user-images.githubusercontent.com/64630755/148063781-3fda4407-e0ae-42e9-8f2c-a7731ba298a8.png) 
 
+## Files Description ## 
+
+* Transform.py - Do all features transformation for test/Real time data
+* Application.py - This contains Flask APIs that receives customer details through GUI or API calls, computes the precited value based on our model and returns it.
+* template - This folder contains the HTML template (index.html) to allow user to enter customer detail and displays the predicted Customer Status.
+
 ## Running the project ##
 
 * Run app.py using below command to start Flask API 

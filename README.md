@@ -16,6 +16,7 @@ the customer.
 * Transform.py - Do all features transformation for test/Real time data
 * Application.py - This contains Flask APIs that receives customer details through GUI or API calls, computes the precited value based on our model and returns it.
 * template - This folder contains the HTML template (index.html) to allow user to enter customer detail and displays the predicted Customer Status.
+* Cutomer_churn_prediction.ipynb - This file contains all EDA,feature Engineering ,model evaluvations for the given Problem Statement.
 
 ## Running the project ##
 

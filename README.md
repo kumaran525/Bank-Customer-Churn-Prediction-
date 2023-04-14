@@ -9,7 +9,7 @@ of the bank where the Organization can take respective action to retain
 the customer.
 ● I have tried various Machine learning algorithms along with feature Engineering to get the best accuracy of it.In this project I have used F1-Score as Metric as it uses harmonic mean of Precision and recall.
 
-![image](https://user-images.githubusercontent.com/64630755/148063781-3fda4407-e0ae-42e9-8f2c-a7731ba298a8.png) 
+<img width="531" alt="image" src="https://user-images.githubusercontent.com/64630755/232133850-a89a632b-56a6-434a-ad3b-16d97e40a160.png"> 
 
 ## Files Description ## 
 

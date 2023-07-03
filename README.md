@@ -1,13 +1,8 @@
-●“Customer Churn” refers to the state in which the customer or the
-subscriber stops involving transactional activities with the bank.
-● We are trying to determine whether a customer will close his/her account
-with the bank based on given features by posing a binary classification
-problem using Machine learning
-models .
-● In the Business aspect this project may be useful to the marketing team
-of the bank where the Organization can take respective action to retain
-the customer.
-● I have tried various Machine learning algorithms along with feature Engineering to get the best accuracy of it.In this project I have used F1-Score as Metric as it uses harmonic mean of Precision and recall.
+●“Customer Churn” refers to the state in which the customer or the subscriber stops involving transactional activities with the bank.
+● We are trying to determine whether a customer will close his/her account with the bank based on given features by posing a binary classification problem using Machine learning
+models.
+● In the Business aspect this project may be useful to the marketing team of the bank where the Organization can take respective action to retain the customer.
+● I have tried various Machine learning algorithms along with feature Engineering to get the best accuracy of it. In this project, I have used F1-Score as a Metric as it uses the harmonic mean of Precision and recall.
 
 <img width="531" alt="image" src="https://user-images.githubusercontent.com/64630755/232133850-a89a632b-56a6-434a-ad3b-16d97e40a160.png"> 
 
